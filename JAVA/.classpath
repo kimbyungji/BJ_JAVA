@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/tjoeun/Downloads/mysql-connector-j-8.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tjoeun/Downloads/sqlite-jdbc-3.43.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tjoeun/Downloads/mariadb-java-client-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tjoeun/Downloads/ojdbc8-23.2.0.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
